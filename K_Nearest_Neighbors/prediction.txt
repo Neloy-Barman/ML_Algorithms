@@ -1,0 +1,64 @@
+Test point:7,7
+Distance 1:0    Class:1
+Distance 2:1    Class:1
+Distance 3:1    Class:1
+Distance 4:2    Class:1
+Distance 5:4    Class:1
+Predicted class: 1
+
+Test point:4,3
+Distance 1:0    Class:2
+Distance 2:1    Class:2
+Distance 3:1    Class:2
+Distance 4:2    Class:2
+Distance 5:2    Class:2
+Predicted class: 2
+
+Test point:2,8
+Distance 1:17    Class:1
+Distance 2:17    Class:2
+Distance 3:17    Class:2
+Distance 4:20    Class:1
+Distance 5:20    Class:2
+Predicted class: 2
+
+Test point:3,5
+Distance 1:1    Class:2
+Distance 2:2    Class:2
+Distance 3:4    Class:2
+Distance 4:5    Class:2
+Distance 5:5    Class:2
+Predicted class: 2
+
+Test point:1,2
+Distance 1:2    Class:2
+Distance 2:4    Class:2
+Distance 3:4    Class:2
+Distance 4:5    Class:2
+Distance 5:8    Class:2
+Predicted class: 2
+
+Test point:4,8
+Distance 1:5    Class:1
+Distance 2:8    Class:1
+Distance 3:10    Class:1
+Distance 4:13    Class:1
+Distance 5:16    Class:2
+Predicted class: 1
+
+Test point:8,3
+Distance 1:2    Class:1
+Distance 2:5    Class:1
+Distance 3:5    Class:1
+Distance 4:10    Class:1
+Distance 5:13    Class:1
+Predicted class: 1
+
+Test point:8,4
+Distance 1:1    Class:1
+Distance 2:2    Class:1
+Distance 3:4    Class:1
+Distance 4:5    Class:1
+Distance 5:8    Class:1
+Predicted class: 1
+
